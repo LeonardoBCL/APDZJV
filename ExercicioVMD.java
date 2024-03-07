@@ -102,17 +102,5 @@ public class treino {
         else{
             System.out.println("\n Compra necessária.");
         }
-
-
-
-
-
-
-
-
-
-
-
     }
-
 }
